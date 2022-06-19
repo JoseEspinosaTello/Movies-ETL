@@ -9,6 +9,8 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+archive.zip
+wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
